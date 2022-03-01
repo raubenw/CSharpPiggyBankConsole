@@ -1,0 +1,15 @@
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\bin\Debug\net7.0\CSharpPiggyBankConsole.exe
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\bin\Debug\net7.0\CSharpPiggyBankConsole.deps.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\bin\Debug\net7.0\CSharpPiggyBankConsole.runtimeconfig.json
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\bin\Debug\net7.0\CSharpPiggyBankConsole.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\bin\Debug\net7.0\CSharpPiggyBankConsole.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\obj\Debug\net7.0\CSharpPiggyBankConsole.csproj.AssemblyReference.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\obj\Debug\net7.0\CSharpPiggyBankConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\obj\Debug\net7.0\CSharpPiggyBankConsole.AssemblyInfoInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\obj\Debug\net7.0\CSharpPiggyBankConsole.AssemblyInfo.cs
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\obj\Debug\net7.0\CSharpPiggyBankConsole.csproj.CoreCompileInputs.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\obj\Debug\net7.0\CSharpPiggyBankConsole.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\obj\Debug\net7.0\refint\CSharpPiggyBankConsole.dll
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\obj\Debug\net7.0\CSharpPiggyBankConsole.pdb
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\obj\Debug\net7.0\CSharpPiggyBankConsole.genruntimeconfig.cache
+C:\Users\wernerr\OneDrive - University of Johannesburg\Downloads\LearnC#\CSharpPiggyBankConsole\obj\Debug\net7.0\ref\CSharpPiggyBankConsole.dll
